@@ -4,7 +4,7 @@ const byteSize = (str) => {
 	return str.length;
 	}
 	else{
-		return str byteSize.value;
+		return  byteSize.value;
 	}
 };
 
