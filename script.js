@@ -1,8 +1,7 @@
 const byteSize =(str) => {
   // write your code here
-	if (str!==ASCII) {
-		return 15
-	}
+	
+	
 	return (str.length);
 }
 // Do not change the code below
